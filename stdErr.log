@@ -7,9 +7,12 @@ This information is used to shape Next.js' roadmap and prioritize features.
 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
 https://nextjs.org/telemetry
 
- ✓ Ready in 1574ms
+ ✓ Ready in 1580ms
  ○ Compiling / ...
  ✓ Compiled / in 5.3s
- GET / 200 in 5681ms
+ GET / 200 in 5735ms
    Reload env: .env
- ✓ Compiled in 1534ms
+ ○ Compiling /buildtimeerror ...
+ ✓ Compiled in 1675ms
+ ✓ Compiled /buildtimeerror in 1480ms
+ GET /buildtimeerror 200 in 1644ms
